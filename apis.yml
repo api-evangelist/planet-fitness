@@ -1,18 +1,33 @@
 aid: planet-fitness
-url: https://raw.githubusercontent.com/api-evangelist/planet-fitness/refs/heads/main/apis.yml
 name: Planet Fitness
-type: Index
+description: >-
+  The largest fitness franchise in the United States by number of members and
+  locations, operating over 2,500 clubs in the US, Canada, Panama, Mexico, and
+  Australia. Planet Fitness is known for its affordable membership model
+  (Classic and Black Card tiers), the non-intimidating Judgement Free Zone
+  philosophy targeting casual and first-time gym-goers, and the PF App for
+  workout content, club check-in, and member benefits. Planet Fitness does not
+  publish a public developer API, integration portal, or third-party platform
+  program; integrations with workout content providers and biometric/check-in
+  vendors are handled via private commercial partnerships, not public APIs.
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Fitness
   - Wellness
   - Health
   - Franchise
-description: 'The largest fitness franchise in the United States by number of members and locations, operating over 2,500 clubs. Known for its affordable membership model and non-intimidating Judgement Free Zone philosophy targeting casual and first-time gym-goers.'
+  - Consumer
+  - Subscription
+  - Mobile App
+url: https://raw.githubusercontent.com/api-evangelist/planet-fitness/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-09'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
     url: https://www.planetfitness.com/
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
