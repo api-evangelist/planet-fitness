@@ -26,6 +26,8 @@ modified: '2026-05-09'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/planet-fitness
   - type: Website
     url: https://www.planetfitness.com/
 maintainers:
