@@ -11,7 +11,7 @@ description: >-
   program; integrations with workout content providers and biometric/check-in
   vendors are handled via private commercial partnerships, not public APIs.
 kind: company
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Fitness
   - Wellness
